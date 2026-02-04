@@ -1,5 +1,5 @@
- Customer Analytics & Cohort Analysis Project
-
+** Customer Analytics & Cohort Analysis Project
+**
  Project Description
 This project focuses on **advanced customer analytics** using SQL to analyze customer behavior, retention, and segmentation patterns.  
 The goal of the project is to derive **actionable business insights** by applying real-world analytical techniques such as **cohort analysis, customer segmentation, and retention measurement**.
